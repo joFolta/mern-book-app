@@ -1,16 +1,16 @@
-# mern-book-app
+![Book App](preview.png)
 
-## >>>>>>>>>IN PROGRESS<<<<<<<<<<
-## >>>>>>>>>IN PROGRESS<<<<<<<<<<
-## >>>>>>>>>IN PROGRESS<<<<<<<<<<
-## >>>>>>>>>IN PROGRESS<<<<<<<<<<
-## >>>>>>>>>IN PROGRESS<<<<<<<<<<
+# MERN-BOOK-APP
 
+## Followed Tutorial: https://blog.logrocket.com/mern-stack-a-to-z-part-1/
 
-## Stopped here:
-Run the project to see if everything is fine at this point, and you can test all the APIs through Postman (note that before testing APIs using Postman, you need to run the project first). You can download Postman here.
+## Backend Portion
+- Mongo Express Node
 
-then
-Part 2
-
-## Tutorial: https://blog.logrocket.com/mern-stack-a-to-z-part-1/
+## Instructions to Run App
+- Run frontend AND backend to enable working app.
+- **The below is to run backend portion**
+- Npm install
+- Setup Database and create Config folder (refer to tutorial)
+- "node app.js" to run (runs on localhost:8082)
+- Then run frontend portion
